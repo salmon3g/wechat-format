@@ -1,3 +1,7 @@
+# 2024年12月18日
+
+add duca-typora.css for Typora，可直接复制到公众号发布
+
 # 微信公众号排版编辑器
 
 转化 Markdown 到给微信特制的 HTML
